@@ -8,7 +8,9 @@ _I'm a **Front-end** developer and also can built a fully functional **MERN Stac
 <a  href="mailto:kzajjaj@gmail.com"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   <a  href='hhttps://www.linkedin.com/in/zajjaj-bin-sana/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
 </a>  <a href='https://medium.com/@kzajjaj'><img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'></a>
+ <a href='https://twitter.com/ZajjajK'><img src='https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white'></a>
 </div>
+
 
 # ✨ _Area of Interest_
 
