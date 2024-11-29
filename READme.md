@@ -50,4 +50,4 @@ _I'm a **Front-end** developer and also can built a fully functional **MERN Stac
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zajjaj-Khan&theme=dark" alt="Top Languages" /></p>
  </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zajjaj-Khan&theme=highcontrast&border_radius=12)](https://github.com/Zajjaj-Khan)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zajjaj-Khan&theme=highcontrast&border_radius=12)](https://github.com/Zajjaj-Khan)]
